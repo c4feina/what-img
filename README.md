@@ -1,4 +1,4 @@
-METATEST
+es un metatest (porq saca metadatos y es algo muy basico xd)
 
 Es un extractor de metadata en imagenes, medio cagada pero bueno.
 Soporta JPEG, PNG, TIFF, WebP, BMP, GIF.
